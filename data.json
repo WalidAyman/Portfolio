@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "name": "Sales Dashboard",
+      "description": "A comprehensive sales analysis dashboard with regional, product, and time-based breakdowns built using Power BI.",
+      "image": "",
+      "tags": ["Power BI", "SQL", "Excel"],
+      "link": ""
+    },
+    {
+      "name": "Customer Behavior Analysis",
+      "description": "Study of purchase patterns and customer segmentation using Python and clustering algorithms.",
+      "image": "",
+      "tags": ["Python", "Pandas", "Matplotlib"],
+      "link": ""
+    },
+    {
+      "name": "Executive KPIs Report",
+      "description": "Designed an interactive monthly report for key performance indicators with automated alerts on deviation.",
+      "image": "",
+      "tags": ["Superset", "SQL", "PostgreSQL"],
+      "link": ""
+    },
+    {
+      "name": "Social Media Analytics",
+      "description": "Measuring ad campaign performance and analyzing engagement and reach rates across multiple platforms.",
+      "image": "",
+      "tags": ["Excel", "Power BI", "Google Sheets"],
+      "link": ""
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "Google Data Analytics Professional Certificate",
+      "organization": "Google / Coursera",
+      "date": "2024",
+      "icon": "fas fa-database"
+    },
+    {
+      "name": "Microsoft Power BI Data Analyst",
+      "organization": "Microsoft",
+      "date": "2023",
+      "icon": "fas fa-chart-pie"
+    },
+    {
+      "name": "Python for Data Science",
+      "organization": "IBM / Coursera",
+      "date": "2023",
+      "icon": "fab fa-python"
+    },
+    {
+      "name": "SQL Advanced",
+      "organization": "HackerRank",
+      "date": "2022",
+      "icon": "fas fa-table"
+    }
+  ]
+}
