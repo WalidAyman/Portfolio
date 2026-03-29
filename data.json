@@ -3,21 +3,25 @@
     {
       "name": "Sales Dashboard",
       "description": "A comprehensive sales analysis dashboard with regional, product, and time-based breakdowns built using Power BI.",
-      "image": "",
+      "image": "images/project1.jpg",
+      "video": "",
       "tags": ["Power BI", "SQL", "Excel"],
       "link": ""
     },
-    {
+     {
       "name": "HR Dashboard",
       "description": "HR Dashboard in Excel – Built a comprehensive dashboard using Pivot Tables to analyze HR data, showing key metrics like employee count & gender distribution, average performance, skills, leave tracking, salaries, age groups, regional distribution, and employment status. First hands-on experience turning raw data into actionable insights.",
       "image": "images/project2.jpg",
+      "video": "videos/HR Dashboard.mp4",
       "tags": ["Excel"],
       "link": ""
     },
+
     {
       "name": "Executive KPIs Report",
       "description": "Designed an interactive monthly report for key performance indicators with automated alerts on deviation.",
       "image": "",
+      "video": "",
       "tags": ["Superset", "SQL", "PostgreSQL"],
       "link": ""
     },
@@ -25,6 +29,7 @@
       "name": "Social Media Analytics",
       "description": "Measuring ad campaign performance and analyzing engagement and reach rates across multiple platforms.",
       "image": "",
+      "video": "",
       "tags": ["Excel", "Power BI", "Google Sheets"],
       "link": ""
     }
@@ -35,25 +40,29 @@
       "name": "Google Data Analytics Professional Certificate",
       "organization": "Google / Coursera",
       "date": "2024",
-      "icon": "fas fa-database"
+      "icon": "fas fa-database",
+      "link": ""
     },
     {
       "name": "Microsoft Power BI Data Analyst",
       "organization": "Microsoft",
       "date": "2023",
-      "icon": "fas fa-chart-pie"
+      "icon": "fas fa-chart-pie",
+      "link": ""
     },
     {
       "name": "Python for Data Science",
       "organization": "IBM / Coursera",
       "date": "2023",
-      "icon": "fab fa-python"
+      "icon": "fab fa-python",
+      "link": ""
     },
     {
       "name": "SQL Advanced",
       "organization": "HackerRank",
       "date": "2022",
-      "icon": "fas fa-table"
+      "icon": "fas fa-table",
+      "link": ""
     }
   ]
 }
