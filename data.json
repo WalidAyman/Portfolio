@@ -8,10 +8,10 @@
       "link": ""
     },
     {
-      "name": "Customer Behavior Analysis",
-      "description": "Study of purchase patterns and customer segmentation using Python and clustering algorithms.",
-      "image": "",
-      "tags": ["Python", "Pandas", "Matplotlib"],
+      "name": "HR Dashboard",
+      "description": "HR Dashboard in Excel – Built a comprehensive dashboard using Pivot Tables to analyze HR data, showing key metrics like employee count & gender distribution, average performance, skills, leave tracking, salaries, age groups, regional distribution, and employment status. First hands-on experience turning raw data into actionable insights.",
+      "image": "images/project2.jpg",
+      "tags": ["Excel"],
       "link": ""
     },
     {
