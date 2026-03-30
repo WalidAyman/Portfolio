@@ -276,6 +276,19 @@ section { padding: 100px 0; position: relative; }
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* إزالة أي نقط نهائيًا */
+.skill-items li::marker {
+  display: none;
+}
+
+.skill-items li::before {
+  content: none;
 }
 
 .skill-items li {
@@ -294,8 +307,9 @@ section { padding: 100px 0; position: relative; }
   transform: scale(1.05);
 }
 
+/* إخفاء الأيقونات لو موجودة */
 .skill-items li i {
-  display: none; /* شيلنا الأيقونات عشان الشكل يبقى أنضف */
+  display: none;
 }
 
 /* ===== Services Section ===== */
